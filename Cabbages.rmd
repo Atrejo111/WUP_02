@@ -47,6 +47,12 @@ When we look at the Boxplot the bottom quartile for c52 is higher third quartile
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
+```{r}
+favstats(VitC~Cult,data=veggy)
+```
+
+  The top of the Q39 box is its at54.75vthe bottom of the c52 box is its Q1 which is at 58. The bottom of the Q1 box is higher up than the Q3 box. The Box representing c52 is higher than the box representing c39.
+
 ## Inferential Results
 
 <!--State hypothesis clearly.  Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc.  Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
