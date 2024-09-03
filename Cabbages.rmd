@@ -65,3 +65,4 @@ The probability of getting this result is the number .00000003405. We do not bel
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+I graphed the differences between the c39 and c52 method and put them in boxplots seeing that c39 is lower than c52. then i looked at the numerical results between the quarters of my first boxplot and saw that c52 was higher than c39. I ran a statistical test and found the probability and differences in methods between c39 and c52.
